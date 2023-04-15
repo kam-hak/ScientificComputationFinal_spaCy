@@ -49,7 +49,7 @@ dependencies:
   - pygments=2.15.0=pyhd8ed1ab_0
   - pyopenssl=23.1.1=pyhd8ed1ab_0
   - pysocks=1.7.1=pyha2e5f31_6
-  - python=3.11.3=h99528f9_0_cpython
+  - python=3.9.13
   - python-dateutil=2.8.2=pyhd8ed1ab_0
   - python-tzdata=2023.3=pyhd8ed1ab_0
   - python_abi=3.11=3_cp311

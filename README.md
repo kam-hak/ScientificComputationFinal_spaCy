@@ -2,7 +2,13 @@
 
 This repository is a demonstration of the spaCy natural language processing package for Michael Colaresi's PS2705. The goal is to showcase the capabilities of spaCy on a stylized social science project.
 
-The demonstrations uses tweets related to 'scientist rebellion', analyzing contentious, online, collective action.
+The demonstration uses tweets related to 'scientist rebellion', analyzing contentious, online, collective action. These are downloaded from [kaggle.com's dataset "scientist rebellion"](https://www.kaggle.com/datasets/bwandowando/scientist-rebellion-and-related-tweets-dataset)
+
+## Data Download
+
+***YOU MUST DOWNLOAD DATA PRIOR to continuing***
+
+Once downloaded, unzip the download into your downloaded repository.
 
 ## Usage
 
