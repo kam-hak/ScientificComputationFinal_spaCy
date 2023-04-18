@@ -6,14 +6,19 @@ The demonstration uses tweets related to 'scientist rebellion', analyzing conten
 
 ## Data Download
 
-***YOU MUST DOWNLOAD DATA PRIOR to continuing***
+***MUST download data prior to continuing***
 
 Once downloaded, unzip the download into your downloaded repository.
+Data "0425_to_0703_ScientistRebellionCombinedTweets.csv" can be downloaded: <https://www.kaggle.com/datasets/bwandowando/scientist-rebellion-and-related-tweets-dataset?select=0425_to_0703_ScientistRebellionCombinedTweets.csv.gzip>
+
+Data uploaded by "BwandoWando".
 
 ## Usage
 
-To run the project, navigate to this repository in your terminal and run "make".
+To run in the following order:
 
-This will install all packages, create the conda environment, activate it, and run the project.
+- spacy_model_download.zsh
+- main.py
+- train_model.zsh
 
-to remove the environment, run "make clean".
+by: Kamran Hakiman

@@ -1,2 +1,11 @@
-Questions.csv
-Tags.csv
+spcy_test/Questions.csv
+spcy_test/Tags.csv
+Scientist_Rebellion/pretraining_sentiment.csv
+spcy_test.ipynb
+Scientist_Rebellion/pretraining.spacy
+Scientist_Rebellion/train.spacy
+Scientist_Rebellion/validation.spacy
+ouput/
+Scientist_Rebellion/XR_tweets.csv
+Scientist_Rebellion/output/model-best/
+Scientist_Rebellion/output/model-last/
