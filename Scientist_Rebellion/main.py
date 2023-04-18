@@ -6,7 +6,7 @@ from spacy.tokens import DocBin
 from sklearn.model_selection import train_test_split
 
 # Reading in csv as panda df
-df = pd.read_csv("XR_tweets.csv")
+df = pd.read_csv("0425_to_0703_ScientistRebellionCombinedTweets.csv")
 
 # first rows
 print(df.head())

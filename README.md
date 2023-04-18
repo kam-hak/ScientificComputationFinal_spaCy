@@ -8,7 +8,7 @@ The demonstration uses tweets related to 'scientist rebellion', analyzing conten
 
 ***MUST download data prior to continuing***
 
-Once downloaded, unzip the download into your downloaded repository.
+Once downloaded, unzip the download into your downloaded repository under 'Scientist_Rebellion' folder.
 Data "0425_to_0703_ScientistRebellionCombinedTweets.csv" can be downloaded: <https://www.kaggle.com/datasets/bwandowando/scientist-rebellion-and-related-tweets-dataset?select=0425_to_0703_ScientistRebellionCombinedTweets.csv.gzip>
 
 Data uploaded by "BwandoWando".
